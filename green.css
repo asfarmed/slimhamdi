@@ -115,12 +115,12 @@ body.double-diagonal .logos::before,
     border: 2px solid #72b626;
 }
 .preloader .loader {
-  background-image: url(../../img/preloaders/preloader-green-light.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/asfarmed/slimhamdi@main/preloader-green-light.svg);
   background-repeat:no-repeat;
   background-position: 50% 50%;
 }
 body.dark .preloader .loader {
-  background-image: url(../../img/preloaders/preloader-green-dark.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/asfarmed/slimhamdi@main/preloader-green-dark.svg);
   background-repeat:no-repeat;
   background-position: 50% 50%;
 }
@@ -139,7 +139,7 @@ body.dark .preloader .loader {
 	border-right: 3px solid #72b626;
 }
 body.double-diagonal .about.safari::before {
-	background-image: url(../../img/safari-separators/separator-green.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/asfarmed/slimhamdi@main/separator-green.png);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 }
